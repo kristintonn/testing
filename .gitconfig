@@ -1,0 +1,9 @@
+[user]
+	name = Kristin Tønnesen
+	email = kristintonnesen@gmail.com
+[color]
+	diff = auto
+	status = auto
+	merge = auto
+[core]
+	autocrif = false
